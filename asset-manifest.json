@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Peaple-Activity-Tracker/static/css/main.6c85d1e9.chunk.css",
+    "main.js": "/Peaple-Activity-Tracker/static/js/main.330d6648.chunk.js",
+    "main.js.map": "/Peaple-Activity-Tracker/static/js/main.330d6648.chunk.js.map",
+    "runtime-main.js": "/Peaple-Activity-Tracker/static/js/runtime-main.2a755757.js",
+    "runtime-main.js.map": "/Peaple-Activity-Tracker/static/js/runtime-main.2a755757.js.map",
+    "static/js/2.c884acea.chunk.js": "/Peaple-Activity-Tracker/static/js/2.c884acea.chunk.js",
+    "static/js/2.c884acea.chunk.js.map": "/Peaple-Activity-Tracker/static/js/2.c884acea.chunk.js.map",
+    "index.html": "/Peaple-Activity-Tracker/index.html",
+    "precache-manifest.3d0067bda6a7a34b157b68b0613a2408.js": "/Peaple-Activity-Tracker/precache-manifest.3d0067bda6a7a34b157b68b0613a2408.js",
+    "service-worker.js": "/Peaple-Activity-Tracker/service-worker.js",
+    "static/css/main.6c85d1e9.chunk.css.map": "/Peaple-Activity-Tracker/static/css/main.6c85d1e9.chunk.css.map",
+    "static/js/2.c884acea.chunk.js.LICENSE.txt": "/Peaple-Activity-Tracker/static/js/2.c884acea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a755757.js",
+    "static/js/2.c884acea.chunk.js",
+    "static/css/main.6c85d1e9.chunk.css",
+    "static/js/main.330d6648.chunk.js"
+  ]
+}
