@@ -15,7 +15,7 @@ Project is created with:
 
 ## Deployment
 
-This project was deployed with Netlify: [Demo](https://kanikashrivastava.github.io/Activity-Tracker/) to see.
+This project was deployed with Netlify: [Demo](https://kanikashrivastava.github.io/Peaple-Activity-Tracker/) to see.
 
 ## Setup
 
